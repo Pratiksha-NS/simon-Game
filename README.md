@@ -35,10 +35,4 @@ This project is a web-based implementation of the classic Simon game, built with
 Check out the live demo [here](https://pratiksha-ns.github.io/simon-Game/).
 
 
-## Contribution
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

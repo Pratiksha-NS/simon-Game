@@ -27,7 +27,7 @@ This project is a web-based implementation of the classic Simon game, built with
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/simon-game.git`
+1. Clone the repository: `git clone https://github.com/Pratiksha-NS/simon-game.git`
 2. Open the `index.html` file in your web browser.
 
 ## Live Demo
